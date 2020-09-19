@@ -1,4 +1,4 @@
-# Reproducibility
+## Reproducibility
 
 
 This GitHub repository contains the Python code for reproducing the analysis and figures in the following manuscript:
