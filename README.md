@@ -7,16 +7,12 @@ Van Hoan Do, Stefan Canzar, A generalization of tSNE and UMAP to single cell mul
 data, xxx.
 
 
-----------
-Installing of Jvis
-----------
+### Installing of Jvis
 
 The instruction of how to install the package:
 https://pypi.org/project/testJvis-learn/
 
----------------
-Reproducibility
----------------
+### Reproducibility
 
 1/ Section "Proofs of principle". Here we analyzed a SNARE-seq data set and performed a number of experiments to validate the ability of Jvis to learn the correct representation under the noise. The data and python scripts to reproduce this section are provided in the directory "proof_of_principle"
 
@@ -31,7 +27,7 @@ https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1945-3#avail
 
 The Python scripts for reproducing this section are given in the directory "sc_velocity"
 
-### Reference
+#### Reference
 [1] Gorin, G., Svensson, V. & Pachter, L. Protein velocity and acceleration from single-cell multiomics experiments. Genome Biol 21, 39 (2020). https://doi.org/10.1186/s13059-020-1945-3
 
 
