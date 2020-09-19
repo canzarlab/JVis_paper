@@ -10,7 +10,7 @@ data, xxx.
 ### Installing of Jvis
 
 The instruction of how to install the package:
-https://pypi.org/project/testJvis-learn/
+https://pypi.org/project/Jvis-learn/
 
 ### Reproducibility
 
