@@ -3,7 +3,7 @@
 
 This GitHub repository contains the Python code for reproducing the analysis and figures in the following manuscript:
 
-an Hoan Do, Stefan Canzar, A generalization of t-SNE and UMAP to single-cell multimodal omics, bioRxiv (2021). doi: https://doi.org/10.1101/2021.01.10.426098
+Van Hoan Do, Stefan Canzar, A generalization of t-SNE and UMAP to single-cell multimodal omics, bioRxiv (2021). doi: https://doi.org/10.1101/2021.01.10.426098
 
 
 ### Installing of Jvis
